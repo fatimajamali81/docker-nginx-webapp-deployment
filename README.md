@@ -32,7 +32,7 @@ This project demonstrates the deployment of a basic web application using Docker
    - Navigate to the public DNS of your EC2 instance to view the deployed web application.
 
 
-## Optional: Set Up Portainer for Docker Management
+## Optional step: Set Up Portainer for Docker Management
 
 Portainer provides a graphical user interface for managing Docker containers. This step is optional but recommended for users who prefer a UI for Docker management.
 
@@ -74,7 +74,7 @@ Portainer provides a graphical user interface for managing Docker containers. Th
      ```
 
 
-## Files
+## Files in Project
 
 - `index.html`: The HTML content for the web application.
 - `Dockerfile`: Dockerfile for building the Nginx image.
